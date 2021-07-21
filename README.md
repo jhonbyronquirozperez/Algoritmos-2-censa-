@@ -11,3 +11,5 @@ Algoritmo que permita obtener el promedio de la cantidad de números que el usua
 	(S) este termina hasta cumplir el ciclo en 10.
  
  El 1 de Enero de 1999, el tanque de agua “Tulio Febres Cordero” contenía 10.000 litros de agua. La zona a la cual suministra agua este tanque usó 183 litros de agua semanalmente y el tanque no recibió agua en ningún momento. Calcular la cantidad de agua que queda en el tanque al final de cada semana hasta que no quede en el tanque suficiente agua para suplir la zona.
+
+ Calcular la suma de los cuadrados de los cien primeros números naturales.
